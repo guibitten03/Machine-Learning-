@@ -11,3 +11,6 @@
 
 ## Pipeline de Dados:
 - A sequencia de componentes de processamento de dados.
+
+## Github Repository:
+https://github.com/ageron/handson-ml2/blob/master/
