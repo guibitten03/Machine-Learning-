@@ -8,3 +8,6 @@
 - Aperfeiçoar o modelo.
 - Apresentar a solução.
 - Disponibilizar em produção, monitorar e fazer manutenção do sistema.
+
+## Pipeline de Dados:
+- A sequencia de componentes de processamento de dados.
